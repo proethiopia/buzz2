@@ -1,4 +1,4 @@
-public class backcode {
+public class Backcode {
   private static String lastword;
   private static int lastLength;
   public static int getlastindex(String input) {
